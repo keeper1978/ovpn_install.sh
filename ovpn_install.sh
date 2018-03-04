@@ -4,8 +4,8 @@
 # Этот скрипт будет работать толко на CentOS и, возможно, на его
 # производных дистрибутивах
 
-#Основано на https://github.com/Nyr/openvpn-install
-#Посвящается @evilmind 
+# Основано на https://github.com/Nyr/openvpn-install
+# Посвящается @evilmind 
 
 
 
